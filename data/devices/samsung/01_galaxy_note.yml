@@ -528,7 +528,7 @@
   id: note10
   codenames:
       - d1
-  architecture: 
+  architecture: arm64-v8
   block_devs:
     base_dirs:
       - /dev/block/platform/13d60000.ufs/by-name
